@@ -1,0 +1,8 @@
+{
+  "name": "Rudra",
+  "symbol": "RU",
+  "decimals": 9,
+  "description": "This is a sample token created for demonstration purposes.",
+  "website": "https://example.com",
+  "icon": "https://example.com/token-icon.png"
+}
